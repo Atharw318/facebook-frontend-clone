@@ -1,0 +1,16 @@
+.mainbox{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(220, 220, 236);
+    text-align: center;
+}
+
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #035e5a;
+ }
+ p{
+     color: #12CBC4;
+ }

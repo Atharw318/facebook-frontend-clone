@@ -1,0 +1,21 @@
+.header-box{
+    text-align: center;
+    background-color:#B7B7B7 ;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-weight: 500;
+    color: #2d495f;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color:#2d495f ;
+    color: white;
+}
